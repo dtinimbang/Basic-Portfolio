@@ -37,7 +37,7 @@
 .mainSection{
     background: yellow;
     color: black;
-    height: 450px;
+    height: 440px;
     width: 650px;
     margin-left: 100px;
     float: left;
@@ -72,6 +72,9 @@
     height: 1px;
     color: red;
 }
+hr.hr{
+    width:100%;
+}
 
 .contact{
     background: yellow;
@@ -79,7 +82,7 @@
     height: 450px;
     width: 650px;
     margin-left: 100px;
-    position: absolute;
+    position: relative;
     top: 0;
     left:0;
     float: left;
