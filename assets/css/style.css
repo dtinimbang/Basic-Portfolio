@@ -1,4 +1,4 @@
-.test{
+.headerbg{
     background:whitesmoke;
     color: white;
     width: 100%;
@@ -27,6 +27,7 @@
     height: 35px;
     width: 275px;
     font-size: 20px;
+    
     top:0px;
     left: 100px;
     padding: 20px;
@@ -37,10 +38,11 @@
 .mainSection{
     background: yellow;
     color: black;
-    height: 440px;
+    height: 430px;
     width: 650px;
     margin-left: 100px;
     float: left;
+    margin-top: 10px;
 
 }
 
@@ -50,6 +52,7 @@
     height: 250px;
     width: 270px;
     float: left;
+    margin-top: 10px;
     margin-left: 160px;
     text-align: center;
 }
