@@ -122,7 +122,7 @@ hr.hr{
     background: purple;
     color: black;
     font-family: 'Arial', 'Helvetica Ne', Helvetica, sans-serif;
-    height: 600px;
+    height: 650px;
     width: 640px;
     font-size: 20px;
     margin-left: 100px;
@@ -141,7 +141,25 @@ hr.hr{
 float: left;
 position: relative;
 margin: 20px;
-padding-left: 50px;
+padding-left: 40px;
+}
+
+.family,
+.love,
+.hobbies,
+.fitness,
+.shows{
+    background: #4aaaa5;
+    color: white; 
+    text-align: center;
+    height: 30px;
+    width: 224px;
+    font-size: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    top:0px;
+    left: 40px;
+    position: absolute;
+    
 }
 
 
