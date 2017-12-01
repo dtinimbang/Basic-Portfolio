@@ -79,9 +79,13 @@
     margin-left: 160px;
     padding-top: 20px;
     text-align: center;
-    position: relative
+    position: relative;
 }
-
+.icons{
+    position: absolute;
+    top: 70px;
+    left: 60px;
+}
 .connect{
     background: white;
     color: #4aaaa5;
@@ -91,6 +95,8 @@
     height: 35px;
     top: 10px;
     left:20px;
+
+    
 }
 .footer{
     background:rgb(66, 66, 66);
